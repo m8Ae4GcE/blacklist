@@ -1,4 +1,4 @@
-26/05/2022_15:48:10
+03/06/2022_15:48:10
 #OCD-Datalake-russia-ukraine_IOCs.domain
 
 3237.site
@@ -1055,7 +1055,6 @@ papayana.xyz
 papiliot.online
 papiliot.ru
 passport.command-email.online
-paylimng.top
 peaakyt.ru
 penicil.ru
 perchi.site
