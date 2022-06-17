@@ -1,4 +1,4 @@
-10/06/2022_15:48:10
+17/06/2022_20:04:56
 #OCD-Datalake-russia-ukraine_IOCs.domain
 
 3237.site
@@ -140,7 +140,6 @@ avratus.xyz
 axikok.com
 azukimiwo.ru
 babylont.online
-bacill.ru
 bacilluse.online
 bacteri.ru
 bacterin.ru
@@ -731,7 +730,6 @@ kiesoud.ru
 kilogar.ru
 kilorta.ru
 kilotrofa.ru
-kimiga.ru
 kimige.ru
 kiolart.ru
 kippuno.ru
@@ -886,7 +884,6 @@ metcalfas.ru
 metrika.site
 metronoc.ru
 michis.ru
-midiatr.ru
 miharashi.ru
 mihardo.ru
 mihardo.ru
